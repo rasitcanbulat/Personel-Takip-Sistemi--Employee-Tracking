@@ -1,4 +1,4 @@
-#TR
+# TR
 Personel Takip Sistemi (Delphi)
 
 Bu proje, Delphi ile geliştirilmiş bir personel takip sistemi olup, çalışanların giriş-çıkış saatlerini ve mesai durumlarını takip etmek için tasarlanmıştır. Kullanıcı dostu bir arayüze sahip olan sistem, farklı kullanıcı rolleri (yönetici, personel vb.) ile kullanılabilir ve şu özellikleri içerir:
@@ -20,7 +20,7 @@ Projeyi Delphi IDE ile açın.
 Veritabanı bağlantısını yapılandırın.
 Derleyin ve çalıştırın.
 
-#ENG
+# ENG
 Employee Tracking System (Delphi)
 
 This is a Delphi-based employee tracking system designed to manage and monitor employee attendance, work hours, and related personnel data. The system offers a user-friendly interface, supports multiple user roles (admin, manager, etc.), and includes key features such as:
